@@ -1,0 +1,291 @@
+Lucero Nava 
+
+Python developer 
+
+
+
+ 
+
+Profile 
+
+Developer with 4 years of experience in Ruby on Rails, research and implementation of 
+new Ruby gems in projects.. Possesses knowledge of SQL and has 8 months of 
+experience working with Python, SQL, and ETLs. Currently, she is expanding her 
+expertise by studying cloud services such as Azure and Databricks. Seeking opportunities 
+to apply his experience and leadership in challenging and dynamic environments 
+
+
+
+ 
+
+Capabilities 
+
+Web Applications 
+
+Data Management 
+and Analysis 
+Automation 
+
+Product Development 
+
+Demonstrated ability to 
+develop efficient and 
+scalable web applications 
+using Ruby on Rails 
+framework. Proficient in 
+Active Record and 
+implementing gems as 
+flipper, Rubocop, Rspec, 
+regex, faker in different 
+projects. 
+
+Data management, 
+automate processes to 
+improve efficiency and 
+accuracy in data, Migration 
+Monitoring, Scripting and 
+Automation, Data 
+Discrepancy Detection, 
+CSV Report Generation. 
+
+Developing skills in cloud-
+based solutions for storage, 
+computation, and analytics. 
+Eager to leverage cloud 
+technologies to enhance 
+scalability, flexibility, and 
+efficiency of applications 
+
+
+
+ 
+
+Skills 
+
+Ruby 
+
+Rails 
+
+Python 
+
+Azure 
+
+Databricks 
+
+SQL 
+
+ 
+
+Numpy 
+
+Pandas 
+
+Rspec 
+
+ 
+
+Active Record 
+
+ 
+
+ 
+
+
+
+ 
+
+Education 
+
+Major: Bachelor's Degree in Computer Engineering. Universidad de Guadalajara. 
+
+ 
+
+
+
+ 
+
+Certifications 
+
+
+
+ 
+
+ 
+
+Experience 
+
+Apex Systems 
+
+2023 - 2024 
+
+
+
+
+ 
+
+Data engineer 
+
+Project: Apex IT 
+
+Technical Environment: 
+
+• Management and maintenance of databases using SQL. My primary 
+responsibility was to perform extensive queries to review migrations between 
+servers, ensuring data integrity and consistency. This process involved 
+comparing tables between servers to detect discrepancies in both data and 
+number of records. 
+
+
+ 
+
+• In order to optimize and streamline this process, my colleague and I identified 
+that manual query execution was consuming considerable time, especially for 
+queries involving large data sets. To address this issue, we implemented an 
+innovative solution using Python. We developed a Python script that established 
+connections to the databases on each server and executed specific queries to 
+obtain the data from the relevant tables. We then used Python libraries to 
+compare the results obtained and detect any discrepancies between them. 
+
+
+ 
+
+As a result of this approach, we were able to automate and significantly speed 
+up the process of comparing data between servers. In addition, we implemented 
+the automatic generation of a CSV file that detailed the tables with differences 
+and provided information on the discrepancies detected. This initiative 
+significantly reduced the time and resources spent on this task and improved the 
+accuracy and efficiency of the process, ensuring data consistency and integrity 
+across all server environments. 
+
+ 
+
+ 
+
+ 
+
+BigCommerce-Google 
+
+2021 - 2023 
+
+ 
+
+Ruby developer 
+
+Project: Ads and Listings on Google 
+
+Technical Environment: 
+
+• Ads and Listings on Google is an app that connects your store to Google 
+Shopping. Once connected, your store’s products can be included in Google’s 
+free listings and promoted using Performance Max campaigns. 
+
+
+ 
+
+To achieve this we worked with google merchant center, google ads and 
+BigCommerce API´s. We also made use of active record to store information 
+from the client's stores and synchronization messages from the stores to verify if 
+there were errors or if the synchronization finished correctly. We use some gems 
+to catch errors, enabling functions for only some customers with flags, and 
+creating routines to run hourly synchronization of inventory between stores. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BigCommerce-Square 
+
+2020 - 2021 
+
+
+
+
+ 
+
+Ruby developer 
+
+Project: POS - Square 
+
+Technical Environment: 
+
+• Square POS is an app, built and maintained by BigCommerce, that allows you to 
+send a Square location catalog to your BigCommerce store, or vice versa. The 
+app also allows you to optionally automatically sync stock levels between the two 
+platforms. 
+
+
+ 
+
+Work on the communication and inventory synchronization between square and 
+BigCommerce. The biggest challenge in this application was to solve the 
+inventory synchronization problems in real time between both platforms and the 
+error handling between the API's. We also integrate multiple point-of-sale 
+channels for customers. 
+
+ 
+
+ 
+
+BigCommerce-Clover 
+
+2019 - 2020 
+
+ 
+
+Ruby developer 
+
+Project: POS - Clover integration with BigCommerce 
+
+Technical Environment: 
+
+• Instant synchronization of product and inventory data and images between 
+BigCommerce and Clover. The connection allows you to have the entire store 
+under control on all channels. 
+
+
+ 
+
+I worked on the integration of Clover with BigCommerce, in this application we 
+worked from scratch, from proof of concept to finalize the project. The biggest 
+challenge was to start balancing the inventory between BigCommerce and 
+Clover, since we had to make the necessary operations to not have wrong 
+values in any of the two applications, we investigated solutions to synchronize in 
+real time the inventory of each category of each product and its variants. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+

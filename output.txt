@@ -1,0 +1,3 @@
+Thought: Do I need to use a tool? Yes.
+Action: Resume Search
+Action Input: Power BI

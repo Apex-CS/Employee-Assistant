@@ -1,5 +1,8 @@
 import streamlit as st
+from agent import generate_response
 from utils import write_message
+from agent import generate_response
+
 
 # Page Config
 st.set_page_config("Ebert", page_icon=":movie_camera:")
@@ -7,8 +10,10 @@ st.set_page_config("Ebert", page_icon=":movie_camera:")
 # Set up Session State
 if "messages" not in st.session_state:
     st.session_state.messages = [
-        {"role": "assistant", "content": "Hi, I'm the GraphAcademy Chatbot!  How can I help you?"},
+        {"role": "assistant", "content": "Hi, I'm an Apex employee Chatbot!"
+                 "  How can I help you?"},
     ]
+
 
 # Submit handler
 def handle_submit(message):
@@ -21,10 +26,9 @@ def handle_submit(message):
 
     # Handle the response
     with st.spinner('Thinking...'):
-        # # TODO: Replace this with a call to your LLM
-        from time import sleep
-        sleep(1)
-        write_message('assistant', message)
+        # Call the agent
+        response = generate_response(message)
+        write_message('assistant', response)
 
 
 # Display messages in Session State

@@ -1,0 +1,362 @@
+Juan Pérez Tejada 
+
+Data Engineer / Full-Stack Web Developer 
+
+
+
+ 
+
+Profile 
+
+Data Engineer and Full-Stack Developer with 5 years of experience in Software 
+Development, working with Python, SQL, Ruby, and JavaScript. Using Ruby on Rails, 
+React and NextJS frameworks. Knowledge in Test Automation with RSpec and VCR, and 
+implementing APIs for e-commerce platform, ensuring PCI compliance. Databricks 
+Certified Data Engineer Associate. 
+
+
+
+ 
+
+Capabilities 
+
+Data Engineering 
+
+Web Applications 
+
+Test Automation 
+
+Development of data 
+pipelines following 
+ETL/ELT process and 
+multi-hop (medallion) 
+architecture with Python, 
+SQL and Databricks. 
+
+Development of web 
+applications built in Ruby 
+on Rails and React, 
+Javascript / ES6, HTML 
+5, and CSS - across a 
+variety of frameworks. 
+
+ 
+
+Elaborate specs for unit and 
+integration tests using 
+libraries such as Rspec, 
+Capybara, Selenium, VCR, 
+Rswag, Pytest. 
+
+
+
+ 
+
+Skills 
+
+Ruby on Rails 
+
+Python 
+
+Langchain 
+
+Javascript / ES6 
+
+SQL 
+
+Databricks 
+
+ 
+
+React / NextJS 
+
+DynamoDB 
+
+AWS 
+
+ 
+
+HTML5/CSS/SCSS 
+
+ChromaDB 
+
+GCP 
+
+
+
+ 
+
+Education 
+
+Full-Stack Web Development - Microverse 
+
+Linguistics – National School of Anthropology and History 
+
+
+
+ 
+
+Certifications 
+
+Databricks Certified Data Engineer Associate 
+
+First Place Winner at Wizeline Generative AI Hackathon 2023 
+
+
+
+ 
+
+ 
+
+Experience 
+
+APEX SYSTEMS 
+
+August 2023 – March 2024 
+
+ 
+
+Consultant (Data Engineer) 
+
+Project: APEX IT 
+
+Technical Environment: 
+
+Python, SQL Server, Azure Data Studio, Jupyter Notebooks 
+
+• Performing complex queries with SQL Server intended to be used with Power BI. 
+• Automate common tasks with Python and Jupyter notebooks. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+APEX SYSTEMS 
+
+July 2023 - Current 
+
+ 
+
+Tech-Lead (Full-Stack Web Developer) 
+
+Project: Talent Management Framework 
+
+Technical Environment: 
+
+Ruby on Rails, MySQL, Azure, Docker, React, JavaScript 
+
+• Refactoring and developing a web app platform for helping directors to identify 
+key metrics in the talent pool. 
+• Suggesting required technical changes to deliver key features. 
+• Performing code reviews and provide mentorship to team members. 
+
+
+ 
+
+ 
+
+BIGCOMMERCE 
+
+June 2022 – June 2023 
+
+ 
+
+ 
+
+Consultant (Back-end Developer) 
+
+Project: Channel Integrations 
+
+Technical Environment: 
+
+Ruby, Ruby on Rails, RSwag, RSpec, Postgres, Heroku 
+
+• Developing and refactoring integrations of two different Points of Sale 
+with Ruby on Rails Apps deployed on Heroku using PostgreSQL 
+Database, allowing merchants to adopt an omnichannel strategy. 
+• Creating tests and documentation of API endpoints with RSpec, RSwag 
+and VCR, extending test coverage of applications over 80% and 
+improving collaboration between back end and front-end teams. 
+• Applying Agile methodology through continuous improvement, handling 
+more than 70 merchant bugs reports and feature requests, ensuring 
+customer satisfaction. 
+
+
+ 
+
+ 
+
+MICROVERSE 
+
+January 2022 – June 2022 
+
+ 
+
+Code Reviewer 
+
+Project: Student Success 
+
+Technical Environment: 
+
+Ruby, HTML5/CSS, React, Redux, JavaScript, Git, Github 
+
+• Performing code reviews in GitHub of projects using HTML5/CSS3, 
+JavaScript ES6, React, Ruby, Ruby on Rails. 
+• Mentoring junior web developers to improve the quality of their code and 
+giving them feedback to comply with business standards. 
+
+
+ 
+
+ 
+
+XV DIGITAL 
+
+April 2019 – February 2022 
+
+ 
+
+Web Developer 
+
+Project: NDA 
+
+Technical Environment: 
+
+HTML5/CSS, JavaScript, WordPress, Elementor 
+
+• Developing and maintaining web pages using Wordpress, applying 
+business requirements in Figma with HTML5/CSS3. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+AMS ADWERKS 
+
+November 2018 – April 
+2019 
+
+ 
+
+Code Reviewer 
+
+Project: Student Success 
+
+Technical Environment: 
+
+Ruby, HTML5/CSS, React, Redux, JavaScript, Git, Github 
+
+• Developing a Google Sheet add-on with JavaScript for identifying 
+keywords for advertising, reducing a 90% the workflow time. 
+
+
+ 
+
+NATIONAL UNIVERSITY OF MEXICO (UNAM) 
+
+April 2016 – June 2018 
+
+ 
+
+Technical Assistant 
+
+Project: UNAM Open Data Portal University Collections 
+
+Technical Environment: 
+
+HTML5/CSS, JavaScript, Google Ads 
+
+• Developing procedures for elaborating 
+reports to measure impact of publications, 
+getting Facebook, Twitter and Google 
+analytics metrics. 
+• Delivering a simple dashboard to visualize 
+images of collections available for social 
+media with HTML5/CSS3. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LITS EBUSINESS 
+
+February 2015 – April 2016 
+
+ 
+
+Content Creator 
+
+Projects: Ebusiness Hoy, Walmart, Steren 
+
+Technical Environment: 
+
+HTML, WordPress, Google Ads 
+
+• Researching data and contacting people related 
+to digital businesses for writing three daily notes 
+and one weekly report about technological 
+innovations and business opportunities. 
+• SEO Writing for e-commerce sites, achieving that 
+Walmart’s Landing Page ranked #1 on Google 
+Search during the period of higher sales in 
+Mexico. 
+
+
+ 
+
+ 
+
+
+
+ 
+
+

@@ -1,0 +1,292 @@
+Guadalupe García 
+
+Lead Consultant 
+
+
+
+ 
+
+Profile 
+
+Consultant data and software engineer with more than 15 years’ experience in data 
+analyst, software development. Strengths in SQL, SSIS, SSAS, SSRS, Analytics mindset, 
+Power BI, ADF, c#, HTML, JavaScript. 
+
+Experienced working as developer, analyst, technical lead. Strongly communicative and 
+with a desire to work on a collaborative environment for developing cutting-edge 
+technology solutions to improve business decision making, automate processes and 
+visualize results for the mutual sustainable growth. Set of technical and interpersonal 
+skills aligned with experience in delivering optimal results under strain allowing to be a 
+strong asset to high excellence dev teams. Leading and developing a high-performance 
+team, to achieve the most effective project’ solution. 
+
+ 
+
+He has been involved in many projects through his entire career. As an important added, 
+Guadalupe has experience in several areas such as finance, insurance, retail, and 
+educational sector. 
+
+ 
+
+ 
+
+
+
+ 
+
+Capabilities 
+
+SQL developer 
+
+ETL Developer 
+
+BI 
+
+Creating queries that 
+can consume data in an 
+effective way also 
+creating views or Stored 
+procedures that help the 
+clients to answer 
+business questions. 
+
+Developed ETLs 
+processes to move data 
+from multiple sources to 
+either 1 or multiple 
+targets this with the 
+purpose of preparing 
+the data for be used on 
+multiple BI Tools or 
+other platforms. 
+
+Implemented visualization 
+in different tools like 
+Power-BI, SSRS among 
+other to present data to 
+the clients in a more clean 
+and understandable way. 
+
+ 
+
+Full Stack developer 
+
+ 
+
+ 
+
+ 
+
+Develop web-based 
+applications using .net 
+core, entity framework 
+and jQuery. 
+
+ 
+
+ 
+
+
+
+ 
+
+Skills 
+
+t-sql 
+
+pl-sql 
+
+C# 
+
+SSIS 
+
+Power-bi 
+
+ADF 
+
+ 
+
+SSRS 
+
+JavaScript 
+
+vb.net 
+
+ 
+
+DAX 
+
+Power-query 
+
+HTML5 
+
+ 
+
+CSS3 
+
+tortoise-svn 
+
+ 
+
+
+
+ 
+
+Education 
+
+Bachelor’s degree, Informatica -Instituto Tecnólogico de Culiacán 
+
+
+
+ 
+
+
+Certifications 
+
+Training - AWS fundamentals. 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experience 
+
+Invercap (mx) 
+
+03/2019 - 07/2022 
+
+ 
+
+Technical Lead 
+
+Project: Centro Integrado de Asesoria 
+
+Technical Environment: MS-SQL, Informix, c#, API-rest. 
+
+Reengineering the most of old-system’s functionalities to include in the new one. 
+
+• Leading the dev-team. 
+• Understanding requirements, design an appropriate solution. 
+• Develop some functionalities (Stored procedures, reports, dashboards). 
+
+
+ 
+
+ 
+
+ITESM 
+
+06/2015 – 02/2019 
+
+ 
+
+Technical Lead 
+
+Project: PIE 
+
+Technical Environment: MS-SQL,SSIS, C#, MVC, JavaScript 
+
+Develop a new web-based application which will use to manage investments for tuitions. 
+
+• Leading the dev-team. 
+• Migrate database (built a several ETL). 
+• Create several reports. 
+
+
+ 
+
+ 
+
+Project : SAMPv2 
+
+Technical Environment: MS-SQL, SSIS, Active Directory Federation, C#, MVC, 
+JavaScript 
+
+Develop a new web-based application which will use to manage subjects and study 
+plans. 
+
+• Leading the dev-team. 
+• Migrate database (built a several ETL). 
+• Create reports 
+• 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Banorte Generalli 
+
+03/2012 – 05/2015 
+
+ 
+
+ETL Developer 
+
+Project: 
+
+Technical Environment: MS-SQL, MS-SSIS, Informix 
+
+Modify all current ETL in order to change the way that fees are calculated. 
+
+ 
+
+ABA Seguros 
+
+05/2008 – 02/2012 
+
+
+
+
+ 
+
+Developer Sr. 
+
+Project: 
+
+Technical Environment: MS-SQL, MS-SSIS, MS-SSRS, vb6 
+
+During this time I was participating actively in different projects 
+
+• Modify ETL, 
+• Create reports 
+• Create new ETLs for a specific task. 
+• Create stored procedures, tables, views, etc. 
+• Maintain a legacy application. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+

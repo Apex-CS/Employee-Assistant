@@ -1,0 +1,203 @@
+Carolina Medellin Hernández 
+
+Sr. Data Engineer 
+
+
+
+ 
+
+Profile 
+
+Perceptive and logical data analyst with proven ability to 
+communicate with both technical professionals and end users to 
+identify and translate business requirements. Offering 4 years of 
+experience driving data accuracy and integrity. Business and data 
+analyst with 12 years of experience across diverse industries 
+(Banking, Pharma, Logistics, Retail, Insurance, Consulting). 
+
+
+
+ 
+
+Capabilities 
+
+ Data Engineer 
+
+ 
+
+Expertise in analysis and testing of business requirements to drive 
+deployment of applications, business processes and system 
+solutions. Highly analytical and detailed with documented track 
+record in full software development life cycle (SDLC) 
+methodologies and Agile techniques. Committed to providing 
+superior service and client communication. 
+
+
+
+ 
+
+Skills 
+
+Project Management 
+
+Data Engineer 
+
+Data Warehouse Consultant 
+
+Leadership 
+
+ 
+
+QA Manager 
+
+Systems Analyst 
+
+ 
+
+Teamwork 
+
+Senior BI Consultant 
+
+
+
+ 
+
+Education 
+
+Tecnológico de Estudios Superiores de CI, Computer Systems 
+Engineering.Class of 2008 
+
+
+
+ 
+
+Certifications 
+
+MicroStrategy 10 Certification 
+
+Certified Project Designer (CPD) - Version 9.4.1 
+
+ISTQB® Certified Tester, Foundation Level 
+
+10.413: Advanced Documents: Interactivity & Joining Datasets 
+Knowledge Exam 
+
+Standard CMMI Appraisal Method for Process Improvement 
+(SCAMPI) 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experience 
+
+Agile Thoughts 
+
+2014- Current 
+
+ 
+
+Data Engineer 
+
+ 
+
+Insurance 
+
+• Extract, Transform, Load tasks, maintaining and data integrity. 
+Developed and delivered business information solutions. Worked 
+with customers to understand needs and provide solutions. 
+
+
+ 
+
+Managed Services 
+
+• Developed detailed maintenance schedules to maximize 
+equipment lifetimes. Reviewed technical documentation. 
+Documented all changes and actions in computer-based tracking 
+system. Diagnosed and troubleshot problems, repairing and 
+restoring machines to peak performance. Explained diagnostic 
+findings to customers. Assisted team members to troubleshooting 
+and diagnostics. 
+
+
+ 
+
+Retail /Logistics 
+
+• Create an external facing portal/dashboards using MicroStrategy 
+for a large retailer in Mexico City. Participate in all the cycle for 
+the MicroStrategy project (building schema objects, public objects 
+and dashboards and defining the security model). Build 
+MicroStrategy Dashboards related to Finance for a Logistics 
+retailer in USA. 
+
+
+ 
+
+ 
+
+ 
+
+BBVA Bancomer (Former BBVA) 
+
+2018 – 2014 
+
+ 
+
+System Analyst 
+
+ 
+
+• Coordination of the business requirements for the Portal 
+Bancomer.com (update campaigns, sweepstakes and BD, 
+testing), deletion of cards from the BNet Mexico, review of log 
+management on UNIX computers. 
+• Contribute to fulfilment of the objectives and levels of business 
+attention; keep the portal in competition in the market. Contribute 
+to the quality and cleaning of code to make it palatable to see it. 
+
+
+
+
+
+• Responsible for the management and publication of the contents 
+of the portal audience of Bancomer.com, attention to specific 
+cases of online banking (private area), PM within public and 
+private zone, administration and configuration of equipment. 
+• Management testing, planning and specification tests, research, 
+documentation and concerning Testing methodology. As well, as 
+aid in the improvement of processes and adaptation of 
+methodology. 
+
+
+
+
+ 
+
+

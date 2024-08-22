@@ -1,0 +1,880 @@
+Mary Falcon 
+
+Practice Manager 
+
+
+
+ 
+
+Profile 
+
+• Experience with cloud development and deployments with technologies 
+such as AWS, GCP and Azure. 
+• Work with data as a Data Engineer, designing y refining data pipelines to 
+complete visualization charts, and also complementing with some CI/CD 
+configuration. 
+• Build Business Intelligence Solutions using tools like Pentaho for building 
+ETL, Cubes, Reports, Datamarts, Datawarehouse. Mailing personalization. 
+• Analysis and design of web and mobile applications through different design 
+pattern using different languages as python(Django), RoR 
+• Experience in problem solving through analysis; also in Data Base 
+Administration, including reporting, backups and automation of different 
+tasks through different tools. 
+• Over 2 years of experience as head of Software Development Department, 
+and 1 year of Experience as a Director of Support and Informatives 
+Services. 
+
+
+
+
+ 
+
+Capabilities 
+
+Data 
+
+Frontend and Backend 
+
+Mobile 
+
+Experience working on 
+complete pipelines that goes 
+from the modeling, collect 
+data, clean it, transform, 
+presentation, this include 
+deployment on different 
+environments which could be 
+local or with physical 
+infrastructure to cloud on 
+different platforms (AWS, 
+GCP, Azure) 
+
+Intermediate knowledge on 
+responsive design. 
+
+Experience developing 
+backend solutions and rest 
+APIs with Django and 
+Rails, including the 
+deployment. 
+
+Knowledge on 
+develop apps 
+for iOS and 
+Android using 
+swift, java and 
+flutter. 
+
+
+
+ 
+
+
+
+ 
+
+Skills 
+
+• PostgreSQL 
+• MySQL 
+• MSSQL 
+• Teradata 
+• Mongo 
+• GraphQL 
+• Neo4j 
+• Presto 
+• Hive 
+• Oracle 
+• Airflow 
+• Jenkins 
+• Qubole 
+• Selenium 
+• Git 
+• Informatica 
+• SonarQube 
+• Hygiea 
+
+
+• AWS Redshift 
+• Amazon Athena 
+• AWS Glue 
+• AWS S3 
+• AWS SES 
+• AWS EC2 
+• AWS EMR 
+• AWS Lambda 
+• AWS RDS 
+• AWS Cli 
+• GCP Big Query 
+• GCP Looker 
+• GCP Compute Egine 
+• GCP App Engine 
+• GCP Cloud SQL 
+• GCP Cloud SDK 
+• GCP Apigee 
+• GCP Firebase 
+
+
+• Pandas 
+• Numpy 
+• Jupyter 
+• Mondrian 
+• Scrapy 
+• PandaSQL 
+• Docker 
+• Python 
+• Scala 
+• Swift 
+• Java 
+• Superset 
+• Android 
+• Dart (Flutter) 
+• Ruby 
+• Bash 
+• Batch 
+• Tableau SDK 
+
+
+
+
+
+
+
+• Looper 
+• Data 
+Modeling(Kimball, 
+Datavault) 
+• Django 
+• Rails 
+• Flutter 
+• PySpark 
+• Spark 
+
+
+ 
+
+• GCP DataFlow 
+• Azure Databricks 
+• Azure Blob Storage 
+• Azure Data Factory 
+• Azure DevOps 
+• Pentaho 
+• Power BI 
+• Tableau 
+• Altair 
+
+
+• Vagrant 
+• Virtualbox 
+• Qgis 
+• Sever Administration 
+• API testing 
+• Postman 
+• Rest 
+• Streamsets 
+• Kafka Connector 
+• scikit-learn 
+• Keras 
+• Pytorch 
+
+
+
+
+ 
+
+
+
+ 
+
+Education 
+
+Bachelor Degree – Computer Sytstems Engineer - Instituto Tecnológico de 
+Mérida 
+
+ 
+
+Certifications 
+
+• Machine Learning Course (UADY). February 2022 – April 2023 
+• Flutter Course (UDEMY) 
+• Course of Unix Server Administration, Sysadmin (Init 8) 
+• Swift Course (UDEMY) 
+• Business Intelligence Course – DGTI – Andrea White. March 2016 
+• AWS Data Lab Participant. August 2021 
+• AWS Data Lab Boomerang. November 2021 
+• Looker Training Camp. October 2021 
+
+
+
+
+ 
+
+ 
+
+Experience 
+
+Apex Projects 
+
+Jul/2022 - Now 
+
+ 
+
+Data Engineer, Developer 
+
+ 
+
+Project: Data Internal Platform 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Database modeling 
+• Infrastructure definition. 
+• Backend base development 
+• Frontend base development. 
+• Teams management of the different modules for this project. 
+
+
+ 
+
+Project: Skills Tree 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Database modeling and definition with the best practices for a relational 
+database. 
+
+
+ 
+
+Project: Skill Finder 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Set up and configuration of local development environment, this includes 
+docker, Django and mongo. 
+
+
+
+
+
+• Update internal tools. 
+• This project is in process. 
+• Deployment on Azure Dev ops 
+
+
+ 
+
+Project: Automate Mailing Script 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Creation of a python backup script for the timesheet reminder mail using 
+python. 
+
+
+ 
+
+Project: Scrapper 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Develop web scrappers to get the information of the current job positions to 
+create a tool to feed our database and be aware of the latest technologies that 
+the companies are looking for. 
+
+
+ 
+
+ 
+
+ 
+
+Finish Line - APEX Systems 
+
+Oct/2023 – February 2024 
+
+ 
+
+Lead Data Engineer 
+
+ 
+
+Project: EDS Enterprise Analytics Prog 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Create a repeatable, defined process or script for converting Streamsets jobs to 
+Kafka Connect YAML configuration, so a transition can be done using Kafka 
+Connect for specific functionality and ensure that Kafka Connect workers have 
+the appropriate access credentials. 
+
+
+ 
+
+NOTE: For this solution the technologies used were Python, Streamsets, 
+Streamsets SDK, Kafka, GitHub 
+
+ 
+
+ 
+
+ 
+
+Expedia - APEX Systems 
+
+Oct/2022 – Oct/2023 
+
+ 
+
+Lead Data Engineer 
+
+ 
+
+Project: Loyalty SPT 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Develop new solutions to the daily problematics. 
+• Monitoring with Informatica Monitor, Server Logs, Jenkins the Etls that are 
+under our responsibility. 
+• Deploy on Jenkins the new code that’s been added to the main source. 
+
+
+
+
+
+• Build high functional queries to give to the final users reports and charts. 
+• Data Validation for the migration of service from Teradata on premise to 
+Teradata Cloud. 
+
+
+ 
+
+NOTE: For all these solutions the technologies used were: Scala, Hive, Presto, 
+Jenkins, Linux Scripts, Informatica, Teradata, MSSQL, MySQL, AWS, Spark, Python 
+
+ 
+
+ 
+
+ 
+
+AT&T - APEX Systems 
+
+Aug/2022 – Sep/2022 
+
+ 
+
+Python Developer 
+
+ 
+
+Project: Anomaly Detection 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Configuration of repositories for development workspaces with best practices 
+and according to the company rules. 
+• Analyzing tasks inside jobs on databricks. 
+
+
+ 
+
+ 
+
+ 
+
+Walmart – APEX Systems 
+
+Dec/2021 – Jul/2022 
+
+ 
+
+Data Engineer 
+
+ 
+
+Project: Supply Chain 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Build and implementation of Script to export and upload csv documents over 
+15k of registers 
+• Standarization of Airflow Dags for the Supply Chain flow. 
+• Export tables as externals to other workspaces. 
+• Monitorization with Hygiea, Looper, Sonarqube for the optimization of code 
+coverage. 
+• Development of pipelines and ETL for the supply chain process. 
+
+
+ 
+
+ 
+
+Dacodes 
+
+Jan/2021 – Dec/20221 
+
+
+
+
+ 
+
+Data Engineer 
+
+ 
+
+Project: Main Datawarehouse 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Modeling the central Datawarehouse and also the main architecture for the 
+different datamarts per business unit. Both built under Kimball methodology. 
+• Translation of Pentaho ETL to SQL (postgres, athena and redshift) to keep the 
+data available while the migration was made. 
+• Contruction of the ETL using pyspark as main tool, and build an automation 
+scheduler and execution using Amazon Glue. 
+• Creation of the dags with Airflow to run the internal jobs for the operational 
+Business Unit. 
+• Build charts and reports with Google Looker. 
+
+
+ 
+
+ 
+
+Inovante 
+
+Dec/2018 – Oct/2020 
+
+ 
+
+Mobile Developer 
+
+ 
+
+Project: Wikiley 
+
+ 
+
+Technical Environment: 
+
+ 
+
+Took the control of the mobile development department and of the database 
+administration of all the projects, doing the functions of projects management and 
+development, also I support to the others areas. 
+
+ 
+
+• Develop an app to store a Mexican Laws Compound, with capability of mark 
+and label the text with intelligent markers, that allows to group by the same 
+topics, also the information was store by year or by modification published by 
+the Mexican Government. The project was built for iOS and Android both on 
+natives platforms. 
+• Web Scrapping for the laws, to obtain them html format, and build of the model 
+for the backend app that allows to keep the different versions of the laws 
+without loosing the markers. 
+• Use of python scripts for the automation of tasks in server. 
+• Generate a script of Google Sheet to made SQL queries from a database made 
+in Google Sheets. 
+• Configurate Production and development environment with Docker and Google 
+Cloud. 
+• Manage the administration of the database of all de development department 
+• Develop a bash script that allows the classification of the CFDI in folders 
+according to the name of the clients, this diminish the time and precision and 
+time of the task. 
+• Automate the generation of receipt of role payments in Excel, which increase 
+the level of productivity of the operation area. 
+• Made the desktop development of a Cost Project, in which I create a cost 
+calculator through a macro in Visual basic of Excel. 
+
+
+
+
+
+• Implement the QA area, making test cases, and standards for the track of bugs 
+in production 
+
+
+ 
+
+ 
+
+IMASD 
+
+Oct/2018 – Dec/2018 
+
+ 
+
+Database Administrator and Consultant 
+
+ 
+
+Project: Bepensa 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Analysis and adequacy of a Python script that consume a SQL server 
+data base, and fill a Tableau file located inside a Sharepoint Server, this 
+was made using Tableau sdk. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Government of Yucatan 
+
+Oct/2017 – Dec/2018 
+
+ 
+
+Director 
+
+ 
+
+Project: Informatic Services and Support Direction 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Networking 
+▪ Administration and Control of the principal sites 
+that control the fiber net of the Mérida City. 
+▪ Installation and maintaining of structured wiring for all 
+the dependencies. 
+▪ Maintaining of radio bases of the interior of the state network. 
+▪ Firewall configuration through Fortinet. 
+▪ Administration of VPN and RDP. 
+
+
+
+• Windows Servers 
+▪ Installation of NAS (Synology) for the creation for containers. 
+▪ Configuration of domain controls and email servers. 
+▪ Configuration of a ticket system for user’s requests (OSTickets.) 
+▪ Track of expire dates for licenses, antivirus, ssl and 
+also for spam, phishing, trojans. 
+
+
+
+• Unix Servers 
+▪ Configuration of servers for the hosting of the 
+dependencies’ web pages. 
+▪ Management for tapes backup. 
+
+
+
+• Tech Support 
+▪ Preventive and corrective maintaining of PC, 
+laptops, printers, screens, UPS of government 
+dependencies. 
+▪ Dictate PC’s in case of change of the equipment. 
+▪ Installation antivirus licenses, Windows and office through Campus 
+Agreement. 
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+Government of Yucatan 
+
+Feb/2016 – Nov/2017 
+
+ 
+
+Backend Developer and Data Engineer 
+
+ 
+
+Project: Software Development Lead 
+
+ 
+
+Technical Environment: 
+
+ 
+
+Android and Web Development and Database administration, I was in charge of the 
+department, implementing strategies for the automation of common tasks, diminishing 
+the time of answer, I realized the following activities: 
+
+• Analysis and design for websites with Django. 
+• Design of a push poll app. 
+• Administration of development environment. 
+• Administration of repositories and a local version control with a GIT server. 
+• Production server administration. 
+
+
+Database 
+
+• Analysis and designs of databases. 
+• Creation of complex queries, triggers and functions. 
+• Query data extracts 
+• Design of reports with Pentaho Reporting Tool, using as a main database 
+source queries from Postgres. 
+• Bacula backup administration. 
+
+
+Business Intelligence 
+
+• Implementation of BI solutions: data warehouse, datamarts, cubes. 
+• ETL management for the information treatment. 
+• Implementation of Pentaho BI server and SUPERSET for the administration and 
+visualization of the information. 
+• Database administration and migration. 
+• Data Analysis for the creation of predictions, statistics, reports for the decision 
+make process. 
+• Start the use of Jupyter as complementing tool. 
+
+
+ 
+
+ 
+
+Init 8 
+
+Aug/2014 – Feb//2016 
+
+ 
+
+Backend Developer and Data Engineer 
+
+ 
+
+Project: Software Development Department 
+
+ 
+
+Technical Environment: 
+
+ 
+
+• Mobile and Web development with Django. 
+• Windows and Linux server’s administration. 
+• Business intelligence solutions for clients including ETL, data warehouses, 
+datamarts, cubes, queries, optimization of databases, 
+• dynamic reporting. 
+• Design and automation of maps with QGis. 
+• Database Administration. 
+• Design and execution of complex queries 
+• Configuration of Pentaho Server. 
+• Design of reports and statistics charts. 
+• Design of Test Cases, and introduction to selenium for automate test. 
+
+
+ 
+
+ 
+
+4th Source 
+
+Oct/2013 – Aug/2014 
+
+
+
+
+ 
+
+Software Developer and Quality Assurance 
+
+ 
+
+Project: Internal Stafing, ESI 
+
+ 
+
+Technical Environment: 
+
+ 
+
+Analysis, design and execution of test cases, according to the system sceneries created 
+with the client requirements. 
+
+• Design of Test Cases. 
+• Execution of Regression. 
+• Test on commuters, web browsers and mobile phones. 
+• Write of bugs descriptions and documentation appropriate for the development 
+team. 
+
+
+Continuity to the analysis and development of the Staffing System for the hiring of new 
+personal, interviews and for giving a retro to the candidates. 
+
+• Design and integration of the module online reference. 
+• Elaboration of the user and technical manual. 
+
+
+ 
+
+ 
+
+ 
+
+Despacho Jurídico ER y Asociados 
+
+Jul/2011 – Oct/2013 
+
+ 
+
+Analyst, Software Developer and Sysadmin 
+
+ 
+
+Project: Law Administration System 
+
+ 
+
+Technical Environment: 
+
+ 
+
+Analysis, design, test, implementation and support of a Law Administration System. 
+
+• Data recollection according to the client needs. 
+• Build the system according the business logic for the design of the database 
+and de construction of the modules. 
+• QA desktop tests and server implementation 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Desarrollo Móvil SCP 
+
+Dec/2010 – Jul/2011 
+
+ 
+
+Mobile Developer 
+
+ 
+
+Project: Bejil’eek 
+
+ 
+
+Technical Environment: 
+
+ 
+
+Design and development of an agenda for Android with Geolocalization, based on the 
+methodology GTD (Get Things Done). 
+
+• Analysis and design of Use Cases. 
+• App development 
+• Implementation and maintaining. 
+
+
+ 
+
+ 
+
+ 
+
+Hospital Regional de Alta Especialidad del 
+Estado de Yucatán 
+
+Dec/2009 – Dec/2010 
+
+ 
+
+Software Developer and Tech Support 
+
+ 
+
+Project: Budget System, RISPAC 
+
+ 
+
+Technical Environment: 
+
+ 
+
+
+
+
+ 
+
+• Responsible of the analysis, design, test and 
+implementation of a Budget System according to 
+the requirements of the CONAC. 
+• Software Development and Database analysis 
+and design. 
+• Reporting definition. 
+• QA Desktop Test. 
+• Installation and configuration of PC, RisPACS, 
+Servers. 
+
+
+
+
+ 
+
+

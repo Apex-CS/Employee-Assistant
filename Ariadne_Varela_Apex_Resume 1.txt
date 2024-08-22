@@ -1,0 +1,352 @@
+ 
+
+ 
+
+Ariadne Varela 
+
+Data Engineer 
+
+ 
+
+ 
+
+Profile 
+
+Data Engineer with 9 years of experience working with teams from an International Corporation 
+creating ETL processes using Talend, Matillion and AWS. Database design in MSSQL Server and AWS 
+Redshift. ETL jobs developed using custom codes with Python. Support to different AWS resources. 
+Develop notebooks in Databricks and model creation with DBT. Excellent troubleshooting skills, able 
+to analyze and engineer well-researched and responsive solutions able to work with new solutions 
+and technologies 
+
+
+
+ 
+
+Capabilities 
+
+ 
+
+ETL 
+
+Cloud Support 
+
+ 
+
+Worked on the extraction, 
+transformation and loading (ETL) 
+process in several roles such as 
+support, development, and platform 
+administration, using technologies 
+such as Talend, Matillion and AWS. 
+
+Development, support and 
+maintenance to AWS 
+infrastructure working with 
+AWS CDK and AWS Console 
+
+Notebook development in 
+Databricks for different 
+purposes. 
+
+JAR development in spring 
+boot framework that can be 
+executed in Databricks 
+
+
+
+ 
+
+Skills 
+
+ 
+
+ETL Tools 
+
+Cloud Services 
+
+Programming Language 
+
+Tools 
+
+DB 
+
+Talend 
+
+AWS S3 
+
+Python 
+
+Databricks 
+
+SQL 
+
+Matillion 
+
+AWS Lambda 
+
+PySpark (basic) 
+
+Snowflake (Basic) 
+
+PostgreSQL 
+
+ 
+
+AWS Redshift 
+
+java 
+
+DBT 
+
+ 
+
+ 
+
+AWS CloudWatch 
+
+Spark (basic) 
+
+GitHub 
+
+ 
+
+ 
+
+AWS EC2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWS DMS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWS Glue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWS CDK (basic) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWS Cloud 
+Pipeline 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWS Code 
+Commit 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Education 
+
+Information Technologies and communications –Tecnológico de Monterrey -2015 
+
+
+
+ 
+
+ 
+
+
+Experience 
+
+ 
+
+Apex 
+
+Lead Consultant 
+
+Oct 2023 - Present 
+
+ 
+
+Technical Environment: Databricks, Snowflake, DBT, Java, Maven, Spark, PySpark, SQL, AWS S3, 
+Python 
+
+• Notebook creation in pyspark to validate the data migrated from Snowflake to Databricks 
+• Developed JAR’s using spark and spring boot framework to migrate data from Snowflake 
+to Databricks reading data from S3 buckets. These jars were executed in databricks. 
+• Developed JAR with spark and spring boot framework to migrate tables and data directly 
+from Snowflake to Databricks. 
+• Developed new Models in DBT deployed in databricks to be used by the reporting tool 
+• Troubleshooting of issues reported on existing models 
+• Troubleshooting queries in Databricks 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APEX 
+
+Oct 2020 – Sep 2023 
+
+Sr. Consultant 
+
+Technical Environment: AWS S3, AWS Redshift, Matillion, Lambda, AWS DMS, Python Scripts 
+
+
+• Design, Development, Support and maintenance of ETL jobs created in Matillion. 
+• ETL jobs enhancement to improve the server performance and the process of the support 
+and maintenance. 
+• Build, test and maintain python scripts to collect and transform data from different 
+sources such as API and web scrapping. 
+• AWS Lambda to perform customized notifications. 
+• Importation and exportation data among environments. 
+• Managing Database Implementations. Working with Redshift for compliance maintenance 
+and data integrity. 
+• Troubleshooting queries in Redshift. 
+• Develop new queries in Redshift. 
+• Working with Redshift spectrum for data manipulation stored in S3. 
+• Working with the UNLOAD command to load data from Redshift to S3. 
+• Production Release Management for the different products created during the sprint. 
+• Evaluate and build prototypes for new solutions and technologies. 
+• Working with team members on new technologies and solutions. 
+• Document processes 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+Softtek 
+
+May 2020 – Oct 2020 
+
+AWS Support 
+
+Technical Environment: AWS CDK, EC2, CloudFormation, Code Pipeline, Code Commit, AWS 
+Backup, S3, Lambda, CloudWatch, RDS, Athena, IAM, CloudFront, API Gateway, Amazon Connect. 
+
+• Development, support and maintenance to AWS infrastructure working with AWS CDK 
+and AWS Console. 
+• Perform Environment monitoring and issues resolution. 
+• Logs review, data discovery in database tables for investigation of workflows failures 
+• Participate in demos to clients as well as requirements elicitation and translation to 
+systems requirements 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Softtek 
+
+Aug 2015 – May 2020 
+
+ETL Developer/Business Intelligence 
+
+Technical Environment: Talend, AWS Glue, AWS S3, AWS Redshift, MSSQL Server, Java, Python, 
+Sisense 
+
+
+ETL Developer & DBA 
+
+• Design Development, Support and maintenance or ETL jobs created in Talend, Snaplogic 
+or AWS. 
+• Build, test, install and, maintain data pipelines to collect, transform, process, and load 
+data. 
+• Python and Java Scripts developed for data extraction from several sources. 
+• Database design in MSSQL server and AWS Redshift. 
+• Importation and exportation data among environments. 
+• Managing Database Implementations and Production Release Management for the 
+product 
+• Evaluate and build prototypes for new solutions and technologies. 
+• Couching to team members on technologies and solutions. 
+
+
+ Business Intelligence Developer: 
+
+• Design, development, support, and maintenance of BI on Sisense platform. 
+• Dashboards and data model design to show information to customers to perform their 
+operations 
+
+
+
+
+ 
+
+

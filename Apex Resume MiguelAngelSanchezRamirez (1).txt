@@ -1,0 +1,245 @@
+www.apexsystems.com
+
+Python engineer with AWS infrastructure deployment and architecture design.
+
+Miguel Ángel Sánchez Ramírez
+
+Computer Systems Engineer
+
+Profile
+
+Capabilities
+
+Skills
+
+Education
+
+Experience
+
+Aws lambda, Aws 
+glue(crawler, ETL, jobs, 
+DB), Aws Redshift, 
+DynamoDB, Aws RDS, 
+AWS EC2, AWS 
+IAM(security groups, 
+policies with python sdk 
+etc)
+
+Strong python 
+knowledgde, NLP using 
+scikit learn, Django, 
+flask, redis, and 
+serverless applications
+
+Procedures, triggers, 
+complex sql, views, etc.
+
+AWS
+
+Python
+
+SQL
+
+▪Aws Lambda
+▪Aws Redshift
+▪Aws Dynamodb
+▪Aws glue
+
+
+
+
+
+
+▪Flask
+▪Django
+▪NLP
+▪SQL
+
+
+
+
+
+
+▪NLTK
+▪NoSql
+▪AWS S3
+▪AWS IAM
+
+
+
+
+
+
+IPN(Eng.Computer systems engineer), UDG(Msc. Applied computing)
+
+1 | Proprietary & Confidential | www.apexsystems.com 
+
+May 2023 – Ongoing
+
+Apex Systems, Guadalajara, Jalisco
+
+Tech Lead
+
+Project: The project was entirely to maintain software in production that was deployed in 
+Azure cloud, the project required python knowledge and debug skills, databases were 
+divided by environments located in windows servers, all azure pipelines deployed the code 
+and unit tests were essential to ensure the correct deployment.
+
+Technical Environment: Enviroment divided in 4, dev, stage, qa and prod, each one is 
+served by windows server and each one is replicated using azure pipelines, Azure is used 
+mainly to document and store the repositories of the company.
+
+▪Provide support to production applications with python
+▪Develop new software for a project that used forecasts in costs.
+▪Suggest good practices like unit testings and documentation for new features
+▪Bug fix in production environments.
+▪Adapt to newcodeas fast as possible and be able to provideupdates on good 
+code practices and propose newfeatures.
+
+
+
+
+
+
+
+www.apexsystems.com
+
+Experience
+
+2 | Proprietary & Confidential | www.apexsystems.com 
+
+Arkangeles, Mexico city
+
+Python Developer
+
+Project: Fintech for angel investors
+
+Technical Environment: Aws and python djangowere the environment to work here, 
+using python also to create chatbots and aws to support the entire backend infrastructure.
+
+Most important Contribution to the industry:
+
+Develop a webpage from scratch using aws cloud to design and deploy the entire solution, 
+dynamo db and EC2 instance with a Linux AMI, load balancers and docker where the key 
+to replicate the environment and to have backup in case of contingency, on top of that 
+were other processes running to retrieve and store client information in a ciphered way, the 
+cipher method was developed inhouse using python and the key stored in AWS secret 
+manager.
+
+▪Design the entire webpage from zero
+▪Using AWS to deploy a chatbot using NLP.
+▪Using AWS glue to enhancesome processeswith gluedb
+▪Innovate using functional programming on python
+▪Using AWS to deploy server using EC2 instances
+
+
+
+
+
+
+Apr 2020 – May 2023
+
+Mar 2018 – Apr 2019
+
+TCS, Guadalajara, Jalisco
+
+Python Developer
+
+Project: ACI(American century investments) The project was entirely to develop 
+architecture and innovate on new features using AWS and python.
+
+Technical Environment: AWSentirely using python to maintain deploy and innovate, 
+good practices and design to deploy infrastructure in AWS, using AWS to do ETL on large 
+ammounts of data.
+
+Most important Contribution to the industry:
+
+SSDS or Self Service Data Solutions, was a large project that involved a team of 5 people 
+to develop a platform where a user(IAM role) could query, train, and manipulate data in all 
+stages, having specific permissions on each role to manipulate the data on AWS. The 
+project involve in deploying in cloudformationan scalable, automated and maintainable 
+architecture in AWS, deploying stacks and nested stacks to support all the infrastructure, 
+other parts of the project involvedAws glue used mainly to transform the data received on 
+a s3 bucket with triggers and crawlers the data was transformed from raw to parquet and 
+stored in a sepparate bucket, involving lambdas, sqs queues and glue jobs to provision 
+this solution to the client, finally having data transformed and loaded into glue tables and 
+with Redshift spectrum query the data.
+
+▪Develop AWS policies and infrastructure using AWS cloudformation
+▪Develop AWS infrastructure and processes using AWS SDK for python
+▪Innovate on new technologies and features using AWS like AWS Quicksight Q
+▪Create a new infrastructure to support 1000 clients using IAM groups, Redshift, 
+Glue and Lambdas
+▪Translate client requirements into innovative and creative solutions on AWS
+
+
+
+
+
+
+
+www.apexsystems.com
+
+Koomkin, Mexico city
+
+Python developer
+
+Project: Facebook marketing campaigns, this project was automating and launching 
+marketing campaigns over facebookads, it consisted in orchestrating and scheduling the ads 
+and using ML creating the campaigns and lookalikes.
+
+Technical Environment: The environment was over a windows server using scheduled 
+scripts that executed and launched the ads via Facebook Api on python, there were process 
+that ran asynchronously and synchronously.
+
+Most important contribution to the industry:
+
+Developing an algorithm to reduce the process time by 1/3 of the time, the algorithm consisted 
+in substituting some calculations like the Levenstein by the cosine approach, using also async 
+processes to reduce the amount of time also was key. This process overall involved in 
+launching the marketing campaigns according to clusters made with ML.
+
+▪Using Clustering the clients were grouped and distributed for launching specific 
+processes for each cluster.
+▪Using Levenstein and cosine distance to determine the match between keywords 
+and synonyms.
+▪Storing large amounts of image data on AWS s3
+▪Maintaining current production software and updating it.
+▪UsingNon-relational databases to obtain features and objects.
+
+
+
+
+
+
+Experience
+
+Sec 360
+
+Backend Developer
+
+Project: Security project based on pentesting and hacking the suite was developed on java 
+with some scripts running python, AWS EC2 was used to host a server for the website and 
+AWS s3 and RDS were used for storage.
+
+Technical Environment: The Environment was entirely based on AWS cloud, having only 
+production env to deploy new releases, and EC2 machine was used as a server to maintain 
+the website.
+
+▪Using java and python to maintain and develop new features for the suite.
+▪Learning vulnerabilities on software and network.
+▪Using scripts to renew the web certificate for https requests
+▪Having face to face client interactions to create new features based on java and 
+python.
+▪Using s3 migration service to move large amounts of dataand rotating credentials
+
+
+
+
+
+
+Mar 2018 – Apr 2020
+
+Sep 2016 – Apr 2018
+
+

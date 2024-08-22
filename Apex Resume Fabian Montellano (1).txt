@@ -1,0 +1,224 @@
+Fabian Montellano Santoyo 
+
+Consultant 
+
+
+
+ 
+
+Profile 
+
+Data Engineering enthusiast, passionate about new Big data technologies expertise in 
+data processing & wrangling using Azure Data Factory, Azure Synapse Analytics & 
+PySpark. Experienced in working with agile methodologies. 
+
+
+
+ 
+
+Capabilities 
+
+Data Engineer 
+
+Cloud 
+
+AGILE 
+
+ETL/ELT understanding 
+
+and creation of 
+
+automated pipelines with 
+
+Data Factory or Azure 
+
+Synapse. 
+
+Capable of creating 
+
+metadata driven 
+
+ingestion pipelines. 
+
+Good understanding and 
+
+management of cloud 
+
+platforms, primary 
+
+Microsoft Azure and 
+
+AWS. Creation of feature 
+
+branches and PR’s 
+
+Use of AGILE 
+
+methodology including 
+
+sprints and scrum 
+
+planning for project 
+
+execution 
+
+
+
+ 
+
+Skills 
+
+Azure Synapse Analytics 
+
+Azure Data Factory 
+
+SSMS 
+
+Pyspark 
+
+Snowflake 
+
+MS Fabric 
+
+ 
+
+SQL 
+
+Github 
+
+ 
+
+
+
+ 
+
+Education 
+
+Polytechnic University of Juventino Rosas – Polymer Engineering 
+
+
+
+ 
+
+Certifications 
+
+Snowflake Snowpro Core 
+
+
+
+ 
+
+ 
+
+Experience 
+
+Apex Systems, Monterrey Nuevo Leon 
+
+07, 2022 –12, 2023 
+
+ 
+
+Data Engineer 
+
+Project: CDW 
+
+Technical Environment: 
+
+Azure Data Factory, Azure Data Lake, SQL Server, SSMS, SSIS, 
+PyCharm, Microsoft VSCode, Python 
+
+• ETL in Azure Data Factory ingesting from raw containers and different 
+source systems into Azure Data Lake 
+
+• Transformation of data using Azure Data Factory data flows and python 
+scripts executed by an Azure Batch Pool. 
+
+• XML, JSON, CSV, Parquet and TXT file formats processing. 
+
+• Creation of scripts to extract data including source and destination paths, 
+formatting and mapping from XML, JSON or CSV into SQL tables or Azure 
+Data Lake 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+05,2019 – 12, 2019 
+
+
+
+
+Hella Automotive, Lippstadt, Germany 
+
+ 
+
+ 
+
+Tooling Engineer 
+
+Project: Porsche Taycan 
+
+Technical Environment: 
+
+Validation of 12+ Porsche Rear Combination Lights Toolings for the launching of 
+the new Full electric Porsche Taycan 
+
+• Personal Management. 5 technicians where under my supervision for all 
+the milling and mechanical processes for the required specifications of the 
+toolings. 
+• Supervision of the predictive maintenance for all 2k (multi-color) toolings 
+
+
+ 
+
+ 
+
+ 
+
+Hella Automotive, Irapuato, Mexico 
+
+ 
+
+11, 2018 – 05, 2019 
+
+ 
+
+ 
+
+Tooling Engineer 
+
+Project: Nissan Versa 
+
+Technical Environment: 
+
+In charge of all critical spare parts for the Toolings of the Nissan versa Headlamps, 
+and responsible for corrective maintenance of the same toolings. 
+
+Implementation of KANBAN methodology for Toolings Maintenance, saving up to 
+20% of time between taking the tooling and finishing it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+

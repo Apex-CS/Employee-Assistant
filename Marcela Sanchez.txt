@@ -1,0 +1,92 @@
+Marcela Sanchez 
+
+Senior Data Engineer 
+
+A collaborative data engineerr with more than 10 yoe designing and executing solutions for 
+
+Profile 
+
+data warehouse problems involving multiple data sources, ETL tools, platforms, and scripting. 
+Capabilities 
+
+Skills 
+
+Education 
+
+Certifications 
+
+ETL development Data Modeling Data Analysys 
+Development of ETLs to load 
+information from different 
+Design and implementation of DWH 
+data models to accomplish BI 
+Data analysis with SQL and 
+other data-base administrators. 
+sources to target Database. strategies. 
+
+Hadoop/Hive DataStage Control M 
+SQL Teradata 
+PL/SQL Microstrategy 
+Informatica PC Shell Scripting 
+
+Bachelor degree on Systems and Telematics Engineering – Universidad Justo Sierra-2005-2009 
+
+
+
+Experience 
+
+
+Tata Consultancy Services Dec 2016 – Currently 
+ETL Developer / Project Lead 
+Technical Environment: DataStage 11.5, Control M, Unix (Shell script), Hadoop – (Bee line, 
+Hive tables) 
+
+• 
+Working with a team conformed by two developers per site, I am the front of the project in Gdj, 
+• 
+Monitoring and maintenance of productive cycles, versions migrations, information quality verify. 
+• 
+In charg of ten people, providing knowledge/feedback, meetings with delivery manager, trainings. 
+• 
+ETL/Database/Scripts maintenance 
+Global Hitts Apr 2014 – Nov 2016 
+Senior Consultant Informatica Power Center. 
+Technical Environment: Teradata, Informatica Power Center 9.5.1 and Microstrategy 9 
+
+• 
+Design of ETL processes (Extract, Transform and Load). 
+• 
+Experience with Teradata, SQL Server and SQL concepts. 
+• 
+Experience with ETL platforms – Informatica. 
+SIS SA deCV Sep 2011 – Apr 2014 
+Systems Engineer 
+Technical Environment: Informatica Power Center 9.0.1., Made Siebel and BRM Migration, with 
+documentation migration analysis. 
+
+• 
+Worked in the data quality business unit for different projects (El Palacio de Hierro, Home Depot, 
+Pepsico Co, among others) 
+• 
+To use ETL Datastage 8.5 
+• 
+Attend meetings with managers and functional for obtaining information about data transformation 
+rules. 
+• 
+Using ETL Datastage 8.7 to create business rules and make a clearance duplication of information in the 
+database. 
+• 
+Informatica Power Center 9.0.1. Made Siebel and BRM Migration, with documentation migration 
+analysis. 
+Modatelas Nov 2009 – Aug 2011 
+Sr. Software Engineer / Product Functional Design Lead: 
+Technical Environment: SQL 
+
+• 
+Worked in the Department of Systems in the Special Projects Department. 
+• 
+Implemented a project to automate sales and inventory of various products. 
+• 
+Alongside the team, Plan, design, create, train, and launched various processes for good 
+implementation of this project. 
+
