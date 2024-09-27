@@ -23,9 +23,9 @@ prompt = ChatPromptTemplate.from_messages([(
 
 # model = SentenceTransformer('all-MiniLM-L6-v2nomic-embed-text')
 
-ollama_emb = OllamaEmbeddings(model='nomic-embed-text', base_url="https://39f2-35-198-236-193.ngrok-free.app")
+ollama_emb = OllamaEmbeddings(model='nomic-embed-text', base_url="https://7fb4-35-187-254-204.ngrok-free.app")
 
-llm = Ollama(model="llama3", base_url="https://39f2-35-198-236-193.ngrok-free.app")
+llm = Ollama(model="llama3", base_url="https://7fb4-35-187-254-204.ngrok-free.app")
 
 chain = prompt | llm | StrOutputParser()
 
