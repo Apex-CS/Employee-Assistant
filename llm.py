@@ -38,7 +38,7 @@ def filesByPattern(directory, matchFunc):
 
 
 if __name__ == '__main__':
-    certainFolder = '.'
+    certainFolder = './resumes'
     files = []
     all_files = filesByPattern(certainFolder, lambda fn: fn.endswith('.txt'))
     for file in all_files:
