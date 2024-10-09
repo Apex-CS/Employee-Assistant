@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from langchain_community.llms import Ollama
 from langchain_core.prompts import ChatPromptTemplate
@@ -22,32 +23,6 @@ prompt = ChatPromptTemplate.from_messages([(
 ])
 
 # model = SentenceTransformer('all-MiniLM-L6-v2nomic-embed-text')
-
-ollama_emb = OllamaEmbeddings(model='nomic-embed-text', base_url="https://7fb4-35-187-254-204.ngrok-free.app")
-
-llm = Ollama(model="llama3", base_url="https://7fb4-35-187-254-204.ngrok-free.app")
+llm = Ollama(model="llama3", base_url=os.environ["OLLAMA_HOST"])
 
 chain = prompt | llm | StrOutputParser()
-
-
-import os
-
-def filesByPattern(directory, matchFunc):
-  for path, dirs, files in os.walk(directory):
-    return files
-
-
-if __name__ == '__main__':
-    certainFolder = './resumes'
-    files = []
-    all_files = filesByPattern(certainFolder, lambda fn: fn.endswith('.txt'))
-    for file in all_files:
-        if '.txt' not in file or 'requirements.txt' == file:
-           continue
-        print(file)
-        with open(file, 'r+', encoding='utf8') as f:
-            files.append(f.read())
-    embeded_docs = ollama_emb.embed_documents(files)
-    for i, embed in enumerate(embeded_docs):
-        with open(f"output_embed{i}.txt", 'w+') as f_w:
-            f_w.write(str(embed))
